@@ -1,0 +1,30 @@
+
+
+@font-face {
+	font-family:"Roboto-Black";
+	src: url('../resources/fonts/Roboto/Roboto-Black.ttf');
+}
+@font-face {
+	font-family:"Roboto-BlackItalic";
+	src: url('../resources/fonts/Roboto/Roboto-BlackItalic.ttf');
+}
+@font-face {
+	font-family:"Roboto-Bold";
+	src: url('../resources/fonts/Roboto/Roboto-Bold.ttf');
+}
+@font-face {
+	font-family:"Roboto-Light";
+	src: url('../resources/fonts/Roboto/Roboto-Light.ttf');
+}
+@font-face {
+	font-family:"Roboto-Medium";
+	src: url('../resources/fonts/Roboto/Roboto-Medium.ttf');
+}
+@font-face {
+	font-family:"Roboto-Regular";
+	src: url('../resources/fonts/Roboto/Roboto-Regular.ttf');
+}
+@font-face {
+	font-family:"Roboto-Thin";
+	src: url('../resources/fonts/Roboto/Roboto-Thin.ttf');
+}
